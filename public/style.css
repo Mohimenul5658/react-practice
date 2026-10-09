@@ -1,0 +1,32 @@
+.heading{
+    background-color: purple;
+    color: #fff;
+    padding: 30px 15px;
+    text-align: center;
+    font-size: 3rem;
+}
+.card{
+    padding: 30px;
+    background-color: rgb(159, 198, 198);
+    border-radius: 8px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.cardTitle{
+    color: purple;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.cardDesc{
+    color: #222;
+    font-weight: lighter;
+    text-align: center;
+}
+.Time{
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+}
